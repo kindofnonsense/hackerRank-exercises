@@ -18,16 +18,6 @@ function timeConversion(s) {
           newTime[1] = parseInt(s[1], 10);
           newTime[0] = parseInt(s[0], 10);
           break
-          /*
-        case 9: //
-          newTime[1] = parseInt(s[1], 10) + 2 - 10;
-          newTime[0] = 2;
-          break
-        case 8: // 8h PM = 20h
-          newTime[1] = parseInt(s[1], 10) + 2 - 10;
-          newTime[0] = 2;
-          break
-          */
         default:
           newTime[1] = parseInt(s[1], 10) + 2;
           newTime[0] = parseInt(s[0], 10) + 1;
@@ -49,6 +39,7 @@ function timeConversion(s) {
                break
           }
         }
+        // Here another exception just for 12AM = 0h
       } else if ((s[8]==='A')&&(parseInt(s[1],10) === 2)&&(parseInt(s[0],10) === 1)){
             for (let i=7; i>1; i--){newTime[i] = s[i];};
               newTime[1] = 0;
@@ -59,6 +50,7 @@ function timeConversion(s) {
 
     return newTime.join('');
 };
+// Some tests to the code
 let arr = [
 '00:23:59PM','00:23:59AM',
 '01:23:59PM','01:23:59AM',
