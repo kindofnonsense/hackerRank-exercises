@@ -5,44 +5,44 @@ function bonetrousle(n, k, b) {
     /*
      * Write your code here.
      */
-
-     /*
-     let maxSticks = 0; // Calculate if the store has the necessary number of boxes
-     for (let i=0; i<=k; i++){
+     // Max. number of disponible sticks calculation
+     let maxSticks = 0;
+     for (let i=0; i<=k; i++) {
        maxSticks += i;
      };
-     console.log('maxSticks: ',maxSticks);
-     */
-
-     let maxBoxesToBuy = []; // Calculate the boxes that can be bought
-     let maxBoxCombination = 0
-     for (let j=0; j<b; j++){
-       maxBoxesToBuy.push(k-j);
-       maxBoxCombination += k-j;
-     };
-     //console.log('maxBoxesToBuy: ',maxBoxesToBuy);
-     //console.log('maxBoxCombination: ',maxBoxCombination);
-     if (n > maxBoxCombination){
-       // If the number of sticks to buy (n) is higher than the maxBoxCombination, it will return -1
-       return -1;
+     // Verification if it is possible to find a solution
+     if (n > maxSticks) {
+       // If n > total of sticks, it's not possible
+       return -1; //
      } else {
-       let randomCombination = [];
-       for (let i=0; i=b; i++){
-         randomCombination.push(k-i);
+       // Define a random number to first guess
+       let randomNumber = Math.random();
+       let randomBox = Math.floor(randomNumber*k);
+       // Auxiliar randomizer
+       if (randomNumber > 0.5) {
+         var auxRandomizer = 1;
+         //console.log(`Random auxliar was: ${auxRandomizer}`);
+       } else {
+         var auxRandomizer = 0;
+         //console.log(`Random auxliar was: ${auxRandomizer}`);
        }
-       const reducer = (accumulator, currentValue) => accumulator + currentValue;
-       while (randomCombination.reduce(reducer) > n){
-         if (randomCombination[0]>0 && b<2) {randomCombination[0]--;
-         } else if (randomCombination[1]>0 && b<3) {randomCombination[1]--;
-         } else if (randomCombination[2]>0 && b<4) {randomCombination[2]--;
-         } else {randomCombination[3]--;}
-       };
-       //let rCMax = 0;
-       //let limit = 0;
-
-       return 2;
+       // Define an array of boxes that meet the criterea
+       let boxes = [];
+       boxes[0] = randomBox;
+       let boxesSum = boxes[0];
+       // While boxesSum is lower than 'n',
+       //while (boxesSum <= n) {
+         for (let j=1; j<b-1; j++) {
+           boxes[j] = Math.floor(randomNumber*Math.abs(k-j))
+           boxesSum += boxes[j];
+         }
+         boxes[b-1] = n - boxesSum;
+  //     };
+       return boxes;
      }
-   };
+
+};
+
 // Testing inputs
 var test1 = [12,8,3];
 var test2 = [10,3,3];
