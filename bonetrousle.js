@@ -31,16 +31,15 @@ function bonetrousle(n, k, b) {
        boxes[0] = randomBox;
        let boxesSum = boxes[0];
        // While boxesSum is lower than 'n',
-       //while (boxesSum <= n) {
+      // while (boxesSum <= n) {
          for (let j=1; j<b-1; j++) {
            boxes[j] = Math.floor(randomNumber*Math.abs(k-j))
            boxesSum += boxes[j];
          }
          boxes[b-1] = n - boxesSum;
-  //     };
-       return boxes;
+    //  };
+       return boxes.join(' ');
      }
-
 };
 
 // Testing inputs
@@ -52,4 +51,6 @@ bonetrousle(test1[0], test1[1], test1[2]);
 bonetrousle(test2[0], test2[1], test2[2]);
 bonetrousle(test3[0], test3[1], test3[2]);
 
-console.log(bonetrousle(test1[0], test1[1], test1[2]), bonetrousle(test2[0], test2[1], test2[2]), bonetrousle(test3[0], test3[1], test3[2]));
+console.log(bonetrousle(test1[0], test1[1], test1[2]));
+console.log(bonetrousle(test2[0], test2[1], test2[2]));
+console.log(bonetrousle(test3[0], test3[1], test3[2]));
