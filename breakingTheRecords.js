@@ -1,7 +1,7 @@
 // Complete the breakingRecords function below.
 function breakingRecords(scores) {
   // Defing variables
-  let result = [0,0]; // Inicial value for result array
+  let result = [0,0]; // Initial value for result array
   let highest = scores[0];  // Inicial value for the highest score record
   let lowest = scores[0];   // Inicial value for the lowest score record
 
