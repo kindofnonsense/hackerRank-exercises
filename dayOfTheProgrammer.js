@@ -5,15 +5,25 @@ function dayOfProgrammer(year) {
   let programmerDay = 256;
   //console.log(`year % 4 = ${year%4}, year % 100 = ${year%100} and year % 400 = ${year%400}`);
 
-  // Verify if its a leap year:
-  if ((year % 4 == 0) & (year % 100 != 0)) {
-    console.log(`First condition applied: year % 4 = ${year%4} and year % 100 = ${year%100}`);
-    firstEightMonths += 1;  // The leap year adds one day to the count.
-  } else if (year % 400 == 0) {
-    firstEightMonths += 1
-    console.log('Second condition applied');
+  if (year == 1918) {
+    // The transition year in Russia, then february had 28 - 13 = 15 days. Therefore:
+    firstEightMonths -= 13;
+  } else if (year > 1917) {
+    // Gregorian calendar
+    // Verify if its a leap year:
+    if ((year % 4 == 0) & (year % 100 != 0)) {
+      //console.log(`First condition applied: year % 4 = ${year%4} and year % 100 = ${year%100}`);
+      firstEightMonths += 1;  // The leap year adds one day to the count.
+    } else if (year % 400 == 0) {
+      firstEightMonths += 1
+      //console.log('Second condition applied');
+    }
+  } else {
+    // Julian calendar
+    if (year % 4 == 0) {
+      firstEightMonths += 1;  // The leap year adds one day to the count.
+    }
   }
-
   // Determine day and month
   let resultDay = programmerDay - firstEightMonths;
   let resultMonth = '09';
@@ -42,7 +52,11 @@ console.log(dayOfProgrammer(year3));
 // Sample Input 52
 let year4 = 2100;
 console.log(dayOfProgrammer(year4));
-*/
+
 // Sample Input 48
 let year5 = 1700;
 console.log(dayOfProgrammer(year5));
+*/
+// Test 1918
+let year6 = 1918;
+console.log(dayOfProgrammer(year6));
