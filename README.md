@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-brightgreen.svg?longCache=true&style=for-the-badge">
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-Java-brightgreen.svg?longCache=true&style=for-the-badge">
+  <img alt="Languages" src="https://img.shields.io/badge/Languages-JavaScript-Java-brightgreen.svg?longCache=true&style=for-the-badge">
 </p>
 
 <h3 align="center">
