@@ -22,9 +22,7 @@
 </p>
 </p>
 
-# Algorithms
-
-## Implementation
+# List of Solutions
 
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:-------:|:--------:|:----------:|:----:|
