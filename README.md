@@ -18,6 +18,16 @@
   HackerRank solutions in JavaScript, maintained by <a alt="HackerRank Profile" href="https://www.hackerrank.com/thiagojacinto">Thiago Jacinto</a>.
 </h3>
 <p align="center">
-  README Template from: <a alt="HackerRank Profile" href="https://www.hackerrank.com/gabrielgiordano" >Gabriel Giordano</a>
+  README Template from: <a alt="HackerRank Profile" href="https://www.github.com/gabrielgiordan/hackerrank" >Gabriel Giordano</a>
 </p>
 </p>
+
+# Algorithms
+
+## Implementation
+
+|Type | Problem         | Solution | Difficulty | Note |
+
+|:---------:|:---------------:|:--------:|:----------:|:------:|
+
+|Warm Up |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [JavaScript](JavaScript/warmUpTimeConversion-v2.js) | Easy |  |
