@@ -26,8 +26,6 @@
 
 ## Implementation
 
-|Type | Problem         | Solution | Difficulty | Note |
-
-|:---------:|:---------------:|:--------:|:----------:|:------:|
-
+| Type | Problem | Solution | Difficulty | Note |
+| :--: |:-------:|:--------:|:----------:|:----:|
 |Warm Up |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [JavaScript](JavaScript/warmUpTimeConversion-v2.js) | Easy |  |
