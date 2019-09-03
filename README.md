@@ -41,7 +41,6 @@
 | |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [JavaScript](JavaScript/sockMerchant.js) | Easy |  |
 |Warm Up |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)| [JavaScript](JavaScript/warmUpDiagonalDifference.js) | Easy |  |
 |Warm Up |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [JavaScript](JavaScript/warmUpTimeConversion-v2) | Easy |  |
-
 | |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [Java 12](Java/catsAndAMouse.java) | Easy |  |
 | |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [Java 12](Java/countingValleys.java) | Easy |  |
 | |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Java 12](Java/drawingBook.java) | Easy |  |
