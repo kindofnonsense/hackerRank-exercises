@@ -53,6 +53,6 @@
 
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
-| |[If and Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Java 12](Java/LanguageProficiency/javaIfElse.java) | Easy |  |
-| |[Output Formatting](https://www.hackerrank.com/challenges/java-outpu-formatting/problem)| [Java 12](Java/LanguageProficiency/javaOutputFormatting.java) | Easy |  |
-| |[Stdin and Stout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Java 12](Java/"LanguageProficiency/javaStdinandStdout2.java) | Easy |  |
+| |[If and Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Java 12](Java/Language-Proficiency/javaIfElse.java) | Easy |  |
+| |[Output Formatting](https://www.hackerrank.com/challenges/java-outpu-formatting/problem)| [Java 12](Java/Language-Proficiency/javaOutputFormatting.java) | Easy |  |
+| |[Stdin and Stout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Java 12](Java/"Language-Proficiency/javaStdinandStdout2.java) | Easy |  |
