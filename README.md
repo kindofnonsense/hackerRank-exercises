@@ -23,6 +23,7 @@
 </p>
 
 # List of Solutions
+## Algorithms
 
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
@@ -47,3 +48,11 @@
 | |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Java 12](Java/electronicsShop.java) | Easy |  |
 | |[Forming a Magic Square](https://www.hackerrank.com/challenges/forming-a-magic-square/problem)| [Java 12](Java/formingAMagicSquare.java) | Medium | Inspired by [Aditya N. Gupta](https://www.hackerrank.com/adityangt)  |
 | |[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)| [Java 12](Java/pickingNumbers.java) | Easy |  |
+
+## Java Language Proficiency
+
+| Type | Problem | Solution | Difficulty | Note |
+| :--: |:------- |:--------:|:----------:|:----:|
+| |[If and Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Java 12](Java/LanguageProficiency/javaIfElse.java) | Easy |  |
+| |[Output Formatting](https://www.hackerrank.com/challenges/java-outpu-formatting/problem)| [Java 12](Java/LanguageProficiency/javaOutputFormatting.java) | Easy |  |
+| |[Stdin and Stout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Java 12](Java/"LanguageProficiency/javaStdinandStdout2.java) | Easy |  |
