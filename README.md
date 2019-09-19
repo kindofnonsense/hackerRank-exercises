@@ -54,5 +54,7 @@
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
 | |[If and Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Java 12](Java/Language-Proficiency/javaIfElse.java) | Easy |  |
+| |[Loops I](https://www.hackerrank.com/challenges/java-loops/problem)| [Java 12](Java/"Language-Proficiency/javaLoops1.java) | Easy |  |
+| |[Loops II](https://www.hackerrank.com/challenges/java-loops-ii/problem)| [Java 12](Java/"Language-Proficiency/javaLoops2.java) | Easy |  |
 | |[Output Formatting](https://www.hackerrank.com/challenges/java-outpu-formatting/problem)| [Java 12](Java/Language-Proficiency/javaOutputFormatting.java) | Easy |  |
 | |[Stdin and Stout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Java 12](Java/"Language-Proficiency/javaStdinandStdout2.java) | Easy |  |
