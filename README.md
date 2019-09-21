@@ -53,6 +53,15 @@
 
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
+| |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/"Language-Proficiency/JavaCurrencyFormatter.java) | Easy |  |
+| |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/"Language-Proficiency/JavaDateAndTime.java) | Easy |  |
+| |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/"Language-Proficiency/JavaInheritance2.java) | Easy |  |
+| |[Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Java 12](Java/"Language-Proficiency/JavaStaticInitializerBlock.java) | Easy |  |
+| |[String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)| [Java 12](Java/"Language-Proficiency/JavaStringReverse.java) | Easy |  |
+| |[String Introduction](https://www.hackerrank.com/challenges/java-string-introduction/problem)| [Java 12](Java/"Language-Proficiency/JavaStringIntroduction.java) | Easy |  |
+| |[Substring Comparisons](https://www.hackerrank.com/challenges/java-substring-comparisons/problem)| [Java 12](Java/"Language-Proficiency/JavaSubtringComparisons.java) | Easy |  |
+| |[Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)| [Java 12](Java/"Language-Proficiency/JavaDAtatypes.java) | Easy |  |
+| |[End Of File](https://www.hackerrank.com/challenges/java-end-of-file/problem)| [Java 12](Java/"Language-Proficiency/JavaEndOfFile.java) | Easy |  |
 | |[If and Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Java 12](Java/Language-Proficiency/javaIfElse.java) | Easy |  |
 | |[Loops I](https://www.hackerrank.com/challenges/java-loops/problem)| [Java 12](Java/"Language-Proficiency/javaLoops1.java) | Easy |  |
 | |[Loops II](https://www.hackerrank.com/challenges/java-loops-ii/problem)| [Java 12](Java/"Language-Proficiency/javaLoops2.java) | Easy |  |
