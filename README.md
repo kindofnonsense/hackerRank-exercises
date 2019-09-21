@@ -46,7 +46,7 @@
 | |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| [Java 12](Java/countingValleys.java) | Easy |  |
 | |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| [Java 12](Java/drawingBook.java) | Easy |  |
 | |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| [Java 12](Java/electronicsShop.java) | Easy |  |
-| |[Forming a Magic Square](https://www.hackerrank.com/challenges/forming-a-magic-square/problem)| [Java 12](Java/formingAMagicSquare.java) | Medium | Inspired by [Aditya N. Gupta](https://www.hackerrank.com/adityangt)  |
+| |[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)| [Java 12](Java/formingAMagicSquare.java) | Medium | Inspired by [Aditya N. Gupta](https://www.hackerrank.com/adityangt)  |
 | |[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)| [Java 12](Java/pickingNumbers.java) | Easy |  |
 
 ## Java Language Proficiency
