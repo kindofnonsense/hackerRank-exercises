@@ -53,10 +53,12 @@
 
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
+| |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)| [Java 12](Java/"Language-Proficiency/JavaAnagrams.java) | Easy |  |
 | |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/"Language-Proficiency/JavaCurrencyFormatter.java) | Easy |  |
 | |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/"Language-Proficiency/JavaDateAndTime.java) | Easy |  |
 | |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/"Language-Proficiency/JavaInheritance2.java) | Easy |  |
 | |[Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Java 12](Java/"Language-Proficiency/JavaStaticInitializerBlock.java) | Easy |  |
+| |[String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)| [Java 12](Java/"Language-Proficiency/JavaStringTokens.java) | Easy |  |
 | |[String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)| [Java 12](Java/"Language-Proficiency/JavaStringReverse.java) | Easy |  |
 | |[String Introduction](https://www.hackerrank.com/challenges/java-string-introduction/problem)| [Java 12](Java/"Language-Proficiency/JavaStringIntroduction.java) | Easy |  |
 | |[Substring Comparisons](https://www.hackerrank.com/challenges/java-substring-comparisons/problem)| [Java 12](Java/"Language-Proficiency/JavaSubtringComparisons.java) | Easy |  |
