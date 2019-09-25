@@ -57,11 +57,15 @@
 | |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/"Language-Proficiency/JavaCurrencyFormatter.java) | Easy | Locale clas: use and create; NumberFormat and .getCurrencyInstance |
 | |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/"Language-Proficiency/JavaDateAndTime.java) | Easy | LocalData: .of and .getDayOfWeek() |
 | |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/"Language-Proficiency/JavaInheritance2.java) | Easy | class Extends, .getClass() and . getSuperClass() |
+| |[Regex](https://www.hackerrank.com/challenges/java-regex/problem)| [Java 12](Java/"Language-Proficiency/JavaRegex.java) | Easy | RegEx; class Pattern.matches |
+| |[Regex 2](https://www.hackerrank.com/challenges/java-regex-2/problem)| [Java 12](Java/"Language-Proficiency/JavaRegex2.java) | Easy | class Pattern.compile(); .compile.matcher(); .matcher.find() |
 | |[Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Java 12](Java/"Language-Proficiency/JavaStaticInitializerBlock.java) | Easy | Static; try-catch; if-else |
 | |[String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)| [Java 12](Java/"Language-Proficiency/JavaStringTokens.java) | Easy | String: trim(), split() and isEmpty() |
 | |[String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)| [Java 12](Java/"Language-Proficiency/JavaStringReverse.java) | Easy | char.charAt() |
 | |[String Introduction](https://www.hackerrank.com/challenges/java-string-introduction/problem)| [Java 12](Java/"Language-Proficiency/JavaStringIntroduction.java) | Easy | String: length, charAt(), toUpperCase(), substring() |
 | |[Substring Comparisons](https://www.hackerrank.com/challenges/java-substring-comparisons/problem)| [Java 12](Java/"Language-Proficiency/JavaSubtringComparisons.java) | Easy | String[]; while repetion; String.charAt() |
+| |[Syntax Checker](https://www.hackerrank.com/challenges/java-syntax-checker/problem)| [Java 12](Java/"Language-Proficiency/JavaSyntaxChecker.java) | Easy | Regex; Pattern.compile(Scanner.nextLine()); try-catch |
+| |[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-regular-expression/problem)| [Java 12](Java/"Language-Proficiency/ValidUsernameRegularExpression.java) | Easy | Regex validating sentenses from input |
 | |[Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)| [Java 12](Java/"Language-Proficiency/JavaDAtatypes.java) | Easy | Int data types: byte, short, int and long |
 | |[End Of File](https://www.hackerrank.com/challenges/java-end-of-file/problem)| [Java 12](Java/"Language-Proficiency/JavaEndOfFile.java) | Easy | Scanner: System.in, hasNext, close; while repetion |
 | |[If and Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [Java 12](Java/Language-Proficiency/javaIfElse.java) | Easy | If, else if and else |
