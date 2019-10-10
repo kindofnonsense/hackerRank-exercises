@@ -54,6 +54,7 @@
 | Type | Problem | Solution | Difficulty | Using |
 | :--: |:------- |:--------:|:----------:|:----:|
 | |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)| [Java 12](Java/Language-Proficiency/JavaAnagrams.java) | Easy | String's .toArray(); char[] $ int[]; uniqueChars in char[] |
+| |[BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)| [Java 12](Java/Language-Proficiency/JavaBigDecimal.java) | Medium | ArrayList; .sort( (a,b) -> func ) |
 | |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/Language-Proficiency/JavaCurrencyFormatter.java) | Easy | Locale clas: use and create; NumberFormat and .getCurrencyInstance |
 | |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/Language-Proficiency/JavaDateAndTime.java) | Easy | LocalData: .of and .getDayOfWeek() |
 | |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/Language-Proficiency/JavaInheritance2.java) | Easy | class Extends, .getClass() and . getSuperClass() |
