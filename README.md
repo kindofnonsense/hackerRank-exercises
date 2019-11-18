@@ -28,10 +28,10 @@
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
 | |[Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [JavaScript](JavaScript/appleAndOrange.js) | Easy |  |
-| |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [JavaScript](JavaScript/betweenTwoSets.js) | Easy | **** NOT WORKING PROPERLY: JavaScript [ISSUE #3](https://github.com/thiagojacinto/hackerRank-exercises/issues/3) **** |
+| |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [JavaScript](JavaScript/betweenTwoSets.js) | Easy | *** NOT WORKING PROPERLY: JavaScript [ISSUE #3](https://github.com/thiagojacinto/hackerRank-exercises/issues/3) *** |
 | |[Birthday Chocolate](https://www.hackerrank.com/challenges/birthday-chocolate/problem)| [JavaScript](JavaScript/birthdayChocolate.js) | Easy |  |
 | |[Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)| [JavaScript](JavaScript/bonAppetit.js) | Easy |  |
-| |[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem)| [JavaScript](JavaScript/bonetrousle.js) | Easy | **** NOT WORKING PROPERLY: JavaScript [ISSUE #2](https://github.com/thiagojacinto/hackerRank-exercises/issues/2) **** |
+| |[Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle/problem)| [JavaScript](JavaScript/bonetrousle.js) | Easy | *** NOT WORKING PROPERLY: JavaScript [ISSUE #2](https://github.com/thiagojacinto/hackerRank-exercises/issues/2) *** |
 | |[Breaking The Records](https://www.hackerrank.com/challenges/breaking-the-records/problem)| [JavaScript](JavaScript/breakingTheRecords.js) | Easy |  |
 | |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [JavaScript](JavaScript/dayOfTheProgrammer.js) | Easy |  |
 | |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| [JavaScript](JavaScript/divisibleSumPairs.js) | Easy |  |
@@ -55,6 +55,7 @@
 | :--: |:------- |:--------:|:----------:|:----:|
 | |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)| [Java 12](Java/Language-Proficiency/JavaAnagrams.java) | Easy | String's .toArray(); char[] $ int[]; uniqueChars in char[] |
 | |[BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)| [Java 12](Java/Language-Proficiency/JavaBigDecimal.java) | Medium | ArrayList; .sort( (a,b) -> func ) |
+| |[BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)| [Java 12](Java/Language-Proficiency/JavaBigInteger.java) | Easy | simple String input converted to BigInteger |
 | |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/Language-Proficiency/JavaCurrencyFormatter.java) | Easy | Locale clas: use and create; NumberFormat and .getCurrencyInstance |
 | |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/Language-Proficiency/JavaDateAndTime.java) | Easy | LocalData: .of and .getDayOfWeek() |
 | |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/Language-Proficiency/JavaInheritance2.java) | Easy | class Extends, .getClass() and . getSuperClass() |
@@ -66,6 +67,7 @@
 | |[String Introduction](https://www.hackerrank.com/challenges/java-string-introduction/problem)| [Java 12](Java/Language-Proficiency/JavaStringIntroduction.java) | Easy | String: length, charAt(), toUpperCase(), substring() |
 | |[Substring Comparisons](https://www.hackerrank.com/challenges/java-substring-comparisons/problem)| [Java 12](Java/Language-Proficiency/JavaSubtringComparisons.java) | Easy | String[]; while repetion; String.charAt() |
 | |[Syntax Checker](https://www.hackerrank.com/challenges/java-syntax-checker/problem)| [Java 12](Java/Language-Proficiency/JavaSyntaxChecker.java) | Easy | Regex; Pattern.compile(Scanner.nextLine()); try-catch |
+| |[Excpetion Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)| [Java 12](Java/Language-Proficiency/MyCalculatorApp.java) | Easy | Simple exception handle throws & throw |
 | |[Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)| [Java 12](Java/Language-Proficiency/TagContentExtractor.java) | Medium | Regex; Pattern.compile(Scanner.nextLine()); Matcher.find() & .group(int i); String str.replaceFisrt(Regex, "replacement" |
 | |[Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-regular-expression/problem)| [Java 12](Java/Language-Proficiency/ValidUsernameRegularExpression.java) | Easy | Regex validating sentenses from input |
 | |[Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)| [Java 12](Java/Language-Proficiency/JavaDAtatypes.java) | Easy | Int data types: byte, short, int and long |
@@ -75,3 +77,4 @@
 | |[Loops II](https://www.hackerrank.com/challenges/java-loops-ii/problem)| [Java 12](Java/Language-Proficiency/javaLoops2.java) | Easy | for; Math.pow(base, expoent) |
 | |[Output Formatting](https://www.hackerrank.com/challenges/java-outpu-formatting/problem)| [Java 12](Java/Language-Proficiency/javaOutputFormatting.java) | Easy | for; (String) converting from int |
 | |[Stdin and Stout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Java 12](Java/Language-Proficiency/javaStdinandStdout2.java) | Easy | Sysout some types of var: double, String and int |
+
