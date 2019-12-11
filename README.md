@@ -67,6 +67,7 @@
 | |[String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)| [Java 12](Java/Language-Proficiency/JavaStringTokens.java) | Easy | String: trim(), split() and isEmpty() |
 | |[String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)| [Java 12](Java/Language-Proficiency/JavaStringReverse.java) | Easy | char.charAt() |
 | |[String Introduction](https://www.hackerrank.com/challenges/java-string-introduction/problem)| [Java 12](Java/Language-Proficiency/JavaStringIntroduction.java) | Easy | String: length, charAt(), toUpperCase(), substring() |
+| |[SubArray](https://www.hackerrank.com/challenges/java-subarray/problem)| [Java 12](Java/Language-Proficiency/JavaSubarray.javaa) | Easy | Solution without map() implementation |
 | |[Substring Comparisons](https://www.hackerrank.com/challenges/java-substring-comparisons/problem)| [Java 12](Java/Language-Proficiency/JavaSubtringComparisons.java) | Easy | String[]; while repetion; String.charAt() |
 | |[Syntax Checker](https://www.hackerrank.com/challenges/java-syntax-checker/problem)| [Java 12](Java/Language-Proficiency/JavaSyntaxChecker.java) | Easy | Regex; Pattern.compile(Scanner.nextLine()); try-catch |
 | |[Excpetion Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)| [Java 12](Java/Language-Proficiency/MyCalculatorApp.java) | Easy | Simple exception handle throws & throw |
@@ -79,4 +80,3 @@
 | |[Loops II](https://www.hackerrank.com/challenges/java-loops-ii/problem)| [Java 12](Java/Language-Proficiency/javaLoops2.java) | Easy | for; Math.pow(base, expoent) |
 | |[Output Formatting](https://www.hackerrank.com/challenges/java-outpu-formatting/problem)| [Java 12](Java/Language-Proficiency/javaOutputFormatting.java) | Easy | for; (String) converting from int |
 | |[Stdin and Stout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)| [Java 12](Java/Language-Proficiency/javaStdinandStdout2.java) | Easy | Sysout some types of var: double, String and int |
-
