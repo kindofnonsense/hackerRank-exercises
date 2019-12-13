@@ -56,6 +56,7 @@
 | |[1D Array](https://www.hackerrank.com/challenges/java-1d-array/problem)| [Java 12](Java/Language-Proficiency/Java1DArray.java) | Easy | simple array populate with scanner.system(in) |
 | |[2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)| [Java 12](Java/Language-Proficiency/Java2DArray.java) | Easy | sum elements that represents a hourglass in a 6x6 matrix |
 | |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)| [Java 12](Java/Language-Proficiency/JavaAnagrams.java) | Easy | String's .toArray(); char[] $ int[]; uniqueChars in char[] |
+| |[ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem) | [Java 12](Java/Language-Proficiency/JavaArrayList.java) | Easy | Arraylist implem. & try_catch |
 | |[BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)| [Java 12](Java/Language-Proficiency/JavaBigDecimal.java) | Medium | ArrayList; .sort( (a,b) -> func ) |
 | |[BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)| [Java 12](Java/Language-Proficiency/JavaBigInteger.java) | Easy | simple String input converted to BigInteger |
 | |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/Language-Proficiency/JavaCurrencyFormatter.java) | Easy | Locale clas: use and create; NumberFormat and .getCurrencyInstance |
