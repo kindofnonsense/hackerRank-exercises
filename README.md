@@ -54,6 +54,7 @@
 | Type | Problem | Solution | Difficulty | Using |
 | :--: |:------- |:--------:|:----------:|:----:|
 | |[1D Array](https://www.hackerrank.com/challenges/java-1d-array/problem)| [Java 12](Java/Language-Proficiency/Java1DArray.java) | Easy | simple array populate with scanner.system(in) |
+| |[1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)| [Java 12](Java/Language-Proficiency/Java1DArrayPart2.java) | Medium | Adapted from [@Kirandm](https://www.hackerrank.com/Kirandm?hr_r=1); Using Depth First Search concept |
 | |[2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)| [Java 12](Java/Language-Proficiency/Java2DArray.java) | Easy | sum elements that represents a hourglass in a 6x6 matrix |
 | |[Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)| [Java 12](Java/Language-Proficiency/JavaAnagrams.java) | Easy | String's .toArray(); char[] $ int[]; uniqueChars in char[] |
 | |[ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem) | [Java 12](Java/Language-Proficiency/JavaArrayList.java) | Easy | Arraylist implem. & try_catch |
