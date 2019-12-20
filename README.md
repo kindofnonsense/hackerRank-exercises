@@ -64,6 +64,7 @@
 | |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/Language-Proficiency/JavaDateAndTime.java) | Easy | LocalData: .of and .getDayOfWeek() |
 | |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/Language-Proficiency/JavaInheritance2.java) | Easy | class Extends, .getClass() and . getSuperClass() |
 | |[List](https://www.hackerrank.com/challenges/java-list/problem)| [Java 12](Java/Language-Proficiency/JavaList.java) | Easy | LinkedList's method 'add(INDEX, value)'; |
+| |[Map](https://www.hackerrank.com/challenges/java-map/problem)| [Java 12](Java/Language-Proficiency/JavaMap.java) | Easy | Map Interface & HashMap implementation |
 | |[Regex](https://www.hackerrank.com/challenges/java-regex/problem)| [Java 12](Java/Language-Proficiency/JavaRegex.java) | Easy | RegEx; class Pattern.matches |
 | |[Regex 2](https://www.hackerrank.com/challenges/java-regex-2/problem)| [Java 12](Java/Language-Proficiency/JavaRegex2.java) | Easy | class Pattern.compile(); .compile.matcher(); .matcher.find() |
 | |[Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Java 12](Java/Language-Proficiency/JavaStaticInitializerBlock.java) | Easy | Static; try-catch; if-else |
