@@ -67,6 +67,7 @@
 | |[Map](https://www.hackerrank.com/challenges/java-map/problem)| [Java 12](Java/Language-Proficiency/JavaMap.java) | Easy | Map Interface & HashMap implementation |
 | |[Regex](https://www.hackerrank.com/challenges/java-regex/problem)| [Java 12](Java/Language-Proficiency/JavaRegex.java) | Easy | RegEx; class Pattern.matches |
 | |[Regex 2](https://www.hackerrank.com/challenges/java-regex-2/problem)| [Java 12](Java/Language-Proficiency/JavaRegex2.java) | Easy | class Pattern.compile(); .compile.matcher(); .matcher.find() |
+| |[Stack](https://www.hackerrank.com/challenges/java-stack/problem)| [Java 12](Java/Language-Proficiency/JavaStack.java) | Medium | Stack implem. with push() & pop() to verify admissibility |
 | |[Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)| [Java 12](Java/Language-Proficiency/JavaStaticInitializerBlock.java) | Easy | Static; try-catch; if-else |
 | |[String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)| [Java 12](Java/Language-Proficiency/JavaStringTokens.java) | Easy | String: trim(), split() and isEmpty() |
 | |[String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)| [Java 12](Java/Language-Proficiency/JavaStringReverse.java) | Easy | char.charAt() |
