@@ -62,6 +62,7 @@
 | |[BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)| [Java 12](Java/Language-Proficiency/JavaBigInteger.java) | Easy | simple String input converted to BigInteger |
 | |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formartter/problem)| [Java 12](Java/Language-Proficiency/JavaCurrencyFormatter.java) | Easy | Locale clas: use and create; NumberFormat and .getCurrencyInstance |
 | |[Date And Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)| [Java 12](Java/Language-Proficiency/JavaDateAndTime.java) | Easy | LocalData: .of and .getDayOfWeek() |
+| |[Hashset](https://www.hackerrank.com/challenges/java-hashset/problem)| [Java 12](Java/Language-Proficiency/JavaHashset.java) | Easy | Hashset implementation fast solution & if & else slower solution |
 | |[Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)| [Java 12](Java/Language-Proficiency/JavaInheritance2.java) | Easy | class Extends, .getClass() and . getSuperClass() |
 | |[List](https://www.hackerrank.com/challenges/java-list/problem)| [Java 12](Java/Language-Proficiency/JavaList.java) | Easy | LinkedList's method 'add(INDEX, value)'; |
 | |[Map](https://www.hackerrank.com/challenges/java-map/problem)| [Java 12](Java/Language-Proficiency/JavaMap.java) | Easy | Map Interface & HashMap implementation |
