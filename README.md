@@ -27,6 +27,7 @@
 
 | Type | Problem | Solution | Difficulty | Note |
 | :--: |:------- |:--------:|:----------:|:----:|
+| |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| [JavaScript](JavaScript/angryProfessor.solution.js) | Easy |  |
 | |[Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)| [JavaScript](JavaScript/appleAndOrange.js) | Easy |  |
 | |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| [JavaScript](JavaScript/betweenTwoSets.js) | Easy | *** NOT WORKING PROPERLY: JavaScript [ISSUE #3](https://github.com/thiagojacinto/hackerRank-exercises/issues/3) *** |
 | |[Birthday Chocolate](https://www.hackerrank.com/challenges/birthday-chocolate/problem)| [JavaScript](JavaScript/birthdayChocolate.js) | Easy |  |
@@ -40,6 +41,7 @@
 | |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| [JavaScript](JavaScript/kangaroo.js) | Easy |  |
 | |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| [JavaScript](JavaScript/migratoryBirds.js) | Easy |  |
 | |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| [JavaScript](JavaScript/sockMerchant.js) | Easy |  |
+| |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)| [JavaScript](JavaScript/utopianTree.solution.js) | Easy |  |
 |Warm Up |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)| [JavaScript](JavaScript/warmUpDiagonalDifference.js) | Easy |  |
 |Warm Up |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [JavaScript](JavaScript/warmUpTimeConversion-v2) | Easy |  |
 | |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| [Java 12](Java/catsAndAMouse.java) | Easy |  |
